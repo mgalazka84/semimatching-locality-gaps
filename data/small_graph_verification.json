@@ -1,0 +1,417 @@
+{
+  "status": "PASS",
+  "max_servers": 6,
+  "enumerated_graphs": 50069,
+  "stable_graph_parameter_checks": 20274,
+  "counts_by_size": [
+    {
+      "servers": 1,
+      "graphs": 1
+    },
+    {
+      "servers": 2,
+      "graphs": 4
+    },
+    {
+      "servers": 3,
+      "graphs": 27
+    },
+    {
+      "servers": 4,
+      "graphs": 256
+    },
+    {
+      "servers": 5,
+      "graphs": 3125
+    },
+    {
+      "servers": 6,
+      "graphs": 46656
+    }
+  ],
+  "exhaustive_maxima": [
+    {
+      "servers": 1,
+      "r": 1,
+      "K": 1,
+      "observed_ratio": "1",
+      "upper_bound": "1"
+    },
+    {
+      "servers": 1,
+      "r": 2,
+      "K": 1,
+      "observed_ratio": "1",
+      "upper_bound": "1"
+    },
+    {
+      "servers": 1,
+      "r": 3,
+      "K": 1,
+      "observed_ratio": "1",
+      "upper_bound": "1"
+    },
+    {
+      "servers": 1,
+      "r": 4,
+      "K": 1,
+      "observed_ratio": "1",
+      "upper_bound": "1"
+    },
+    {
+      "servers": 2,
+      "r": 1,
+      "K": 1,
+      "observed_ratio": "1",
+      "upper_bound": "1"
+    },
+    {
+      "servers": 2,
+      "r": 2,
+      "K": 1,
+      "observed_ratio": "1",
+      "upper_bound": "1"
+    },
+    {
+      "servers": 2,
+      "r": 3,
+      "K": 1,
+      "observed_ratio": "1",
+      "upper_bound": "1"
+    },
+    {
+      "servers": 2,
+      "r": 4,
+      "K": 1,
+      "observed_ratio": "1",
+      "upper_bound": "1"
+    },
+    {
+      "servers": 3,
+      "r": 1,
+      "K": 1,
+      "observed_ratio": "1",
+      "upper_bound": "1"
+    },
+    {
+      "servers": 3,
+      "r": 1,
+      "K": 2,
+      "observed_ratio": "4/3",
+      "upper_bound": "4/3"
+    },
+    {
+      "servers": 3,
+      "r": 2,
+      "K": 1,
+      "observed_ratio": "1",
+      "upper_bound": "1"
+    },
+    {
+      "servers": 3,
+      "r": 3,
+      "K": 1,
+      "observed_ratio": "1",
+      "upper_bound": "1"
+    },
+    {
+      "servers": 3,
+      "r": 4,
+      "K": 1,
+      "observed_ratio": "1",
+      "upper_bound": "1"
+    },
+    {
+      "servers": 4,
+      "r": 1,
+      "K": 1,
+      "observed_ratio": "1",
+      "upper_bound": "1"
+    },
+    {
+      "servers": 4,
+      "r": 1,
+      "K": 2,
+      "observed_ratio": "5/4",
+      "upper_bound": "4/3"
+    },
+    {
+      "servers": 4,
+      "r": 2,
+      "K": 1,
+      "observed_ratio": "1",
+      "upper_bound": "1"
+    },
+    {
+      "servers": 4,
+      "r": 2,
+      "K": 2,
+      "observed_ratio": "5/4",
+      "upper_bound": "5/4"
+    },
+    {
+      "servers": 4,
+      "r": 3,
+      "K": 1,
+      "observed_ratio": "1",
+      "upper_bound": "1"
+    },
+    {
+      "servers": 4,
+      "r": 4,
+      "K": 1,
+      "observed_ratio": "1",
+      "upper_bound": "1"
+    },
+    {
+      "servers": 5,
+      "r": 1,
+      "K": 1,
+      "observed_ratio": "1",
+      "upper_bound": "1"
+    },
+    {
+      "servers": 5,
+      "r": 1,
+      "K": 2,
+      "observed_ratio": "6/5",
+      "upper_bound": "4/3"
+    },
+    {
+      "servers": 5,
+      "r": 2,
+      "K": 1,
+      "observed_ratio": "1",
+      "upper_bound": "1"
+    },
+    {
+      "servers": 5,
+      "r": 2,
+      "K": 2,
+      "observed_ratio": "6/5",
+      "upper_bound": "5/4"
+    },
+    {
+      "servers": 5,
+      "r": 3,
+      "K": 1,
+      "observed_ratio": "1",
+      "upper_bound": "1"
+    },
+    {
+      "servers": 5,
+      "r": 3,
+      "K": 2,
+      "observed_ratio": "6/5",
+      "upper_bound": "6/5"
+    },
+    {
+      "servers": 5,
+      "r": 4,
+      "K": 1,
+      "observed_ratio": "1",
+      "upper_bound": "1"
+    },
+    {
+      "servers": 6,
+      "r": 1,
+      "K": 1,
+      "observed_ratio": "1",
+      "upper_bound": "1"
+    },
+    {
+      "servers": 6,
+      "r": 1,
+      "K": 2,
+      "observed_ratio": "4/3",
+      "upper_bound": "4/3"
+    },
+    {
+      "servers": 6,
+      "r": 2,
+      "K": 1,
+      "observed_ratio": "1",
+      "upper_bound": "1"
+    },
+    {
+      "servers": 6,
+      "r": 2,
+      "K": 2,
+      "observed_ratio": "7/6",
+      "upper_bound": "5/4"
+    },
+    {
+      "servers": 6,
+      "r": 3,
+      "K": 1,
+      "observed_ratio": "1",
+      "upper_bound": "1"
+    },
+    {
+      "servers": 6,
+      "r": 3,
+      "K": 2,
+      "observed_ratio": "7/6",
+      "upper_bound": "6/5"
+    },
+    {
+      "servers": 6,
+      "r": 4,
+      "K": 1,
+      "observed_ratio": "1",
+      "upper_bound": "1"
+    },
+    {
+      "servers": 6,
+      "r": 4,
+      "K": 2,
+      "observed_ratio": "7/6",
+      "upper_bound": "7/6"
+    }
+  ],
+  "path_witness_checks": [
+    {
+      "r": 1,
+      "servers": 3,
+      "clients": 3,
+      "edges": 5,
+      "ratio": "4/3",
+      "shortest_improving_path": 2
+    },
+    {
+      "r": 2,
+      "servers": 4,
+      "clients": 4,
+      "edges": 7,
+      "ratio": "5/4",
+      "shortest_improving_path": 3
+    },
+    {
+      "r": 3,
+      "servers": 5,
+      "clients": 5,
+      "edges": 9,
+      "ratio": "6/5",
+      "shortest_improving_path": 4
+    },
+    {
+      "r": 4,
+      "servers": 6,
+      "clients": 6,
+      "edges": 11,
+      "ratio": "7/6",
+      "shortest_improving_path": 5
+    },
+    {
+      "r": 5,
+      "servers": 7,
+      "clients": 7,
+      "edges": 13,
+      "ratio": "8/7",
+      "shortest_improving_path": 6
+    },
+    {
+      "r": 6,
+      "servers": 8,
+      "clients": 8,
+      "edges": 15,
+      "ratio": "9/8",
+      "shortest_improving_path": 7
+    },
+    {
+      "r": 7,
+      "servers": 9,
+      "clients": 9,
+      "edges": 17,
+      "ratio": "10/9",
+      "shortest_improving_path": 8
+    },
+    {
+      "r": 8,
+      "servers": 10,
+      "clients": 10,
+      "edges": 19,
+      "ratio": "11/10",
+      "shortest_improving_path": 9
+    },
+    {
+      "r": 9,
+      "servers": 11,
+      "clients": 11,
+      "edges": 21,
+      "ratio": "12/11",
+      "shortest_improving_path": 10
+    },
+    {
+      "r": 10,
+      "servers": 12,
+      "clients": 12,
+      "edges": 23,
+      "ratio": "13/12",
+      "shortest_improving_path": 11
+    },
+    {
+      "r": 11,
+      "servers": 13,
+      "clients": 13,
+      "edges": 25,
+      "ratio": "14/13",
+      "shortest_improving_path": 12
+    },
+    {
+      "r": 12,
+      "servers": 14,
+      "clients": 14,
+      "edges": 27,
+      "ratio": "15/14",
+      "shortest_improving_path": 13
+    }
+  ],
+  "layered_tree_checks": [
+    {
+      "r": 1,
+      "K": 2,
+      "servers": 3,
+      "clients": 3,
+      "edges": 5,
+      "is_tree": true,
+      "maximum_server_degree": 2
+    },
+    {
+      "r": 2,
+      "K": 3,
+      "servers": 31,
+      "clients": 31,
+      "edges": 61,
+      "is_tree": true,
+      "maximum_server_degree": 3
+    },
+    {
+      "r": 3,
+      "K": 3,
+      "servers": 79,
+      "clients": 79,
+      "edges": 157,
+      "is_tree": true,
+      "maximum_server_degree": 3
+    },
+    {
+      "r": 4,
+      "K": 2,
+      "servers": 6,
+      "clients": 6,
+      "edges": 11,
+      "is_tree": true,
+      "maximum_server_degree": 2
+    },
+    {
+      "r": 7,
+      "K": 2,
+      "servers": 9,
+      "clients": 9,
+      "edges": 17,
+      "is_tree": true,
+      "maximum_server_degree": 2
+    }
+  ]
+}

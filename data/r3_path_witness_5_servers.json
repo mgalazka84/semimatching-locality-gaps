@@ -1,0 +1,44 @@
+{
+  "r": 3,
+  "K": 2,
+  "servers": 5,
+  "clients": 5,
+  "eligibility": [
+    [
+      0
+    ],
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ]
+  ],
+  "current_assignment": [
+    0,
+    0,
+    1,
+    2,
+    3
+  ],
+  "optimal_assignment": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "cost": 6,
+  "optimum": 5,
+  "ratio": "6/5"
+}

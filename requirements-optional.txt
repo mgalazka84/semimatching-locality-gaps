@@ -1,0 +1,2 @@
+# Used only by verify_general_gap.py --lp. Tested with this version.
+scipy==1.17.0
